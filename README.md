@@ -11,4 +11,5 @@ The image shows different augmented versions of a person wearing a mask. These a
 ### Confusion Matrix
 
 The confusion matrix visualizes the performance of the face mask detection model on test data, showing true positives, false negatives, false positives, and true negatives. It indicates that the model correctly identified 49 out of 50 instances of people without masks and 48 out of 50 instances of people with masks. The classification report below the matrix details the precision, recall, and F1-score for each class (0: No Mask, 1: Mask), showing high accuracy and balanced performance across both classes.
+
 ![cm_mask](https://github.com/zainali89/Face-Mask-Compliance-System/assets/75775907/547cdadd-c4e7-4454-ac98-8544c376f872)
