@@ -1,1 +1,3 @@
 # Face-Mask-Compliance-System
+
+Our AI-driven Face Mask Detection aim is to leverage the YOLO (You Only Look Once) algorithm to enhance safety compliance in key public areas. This innovative system uses real-time video analysis to accurately detect and verify face mask usage in environments such as hospitals and schools. By utilizing advanced object detection and deep learning, the solution efficiently processes high-traffic video feeds, ensuring rapid and reliable mask compliance checks. This automation significantly reduces the need for manual monitoring, supporting stricter adherence to health and safety protocols.
